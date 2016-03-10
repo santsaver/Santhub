@@ -1,2 +1,2 @@
 # Santhub
-GitHub for my public builds
+GitHub branch for my Eclipse public builds
